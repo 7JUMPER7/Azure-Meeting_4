@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Meeting_26", "API_Meeting_26\API_Meeting_26.csproj", "{4E38511A-DB08-4630-8618-7B4032D6064A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E38511A-DB08-4630-8618-7B4032D6064A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E38511A-DB08-4630-8618-7B4032D6064A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E38511A-DB08-4630-8618-7B4032D6064A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E38511A-DB08-4630-8618-7B4032D6064A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFCF8CFE-2D14-4067-B003-3CD462A235F2}
+	EndGlobalSection
+EndGlobal
